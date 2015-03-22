@@ -1,0 +1,1 @@
+Ten folder zawiera dane wyjsciowe programu MatLab'a (polecenia dla MetaTrader).
